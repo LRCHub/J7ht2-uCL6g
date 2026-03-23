@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Keep Showing Up",
+  "base_artist": "Fearless Soul",
+  "createdAt": "2026-03-23T15:23:21.485852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Keep Showing Up (Bonus Track)",
+      "artist": "Drowners",
+      "has_synced": true,
+      "path": "select/01_You_Keep_Showing_Up_(Bonus_Track)_Drowners.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep Showing Up (Motivational Speech)",
+      "artist": "Fearless Motivation",
+      "has_synced": true,
+      "path": "select/02_Keep_Showing_Up_(Motivational_Speech)_Fearless_Motivation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Keep Showing Up (Digital Bonus Track)",
+      "artist": "Drowners",
+      "has_synced": true,
+      "path": "select/03_You_Keep_Showing_Up_(Digital_Bonus_Track)_Drowners.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Keep Showing Up",
+      "artist": "Drowners",
+      "has_synced": true,
+      "path": "select/04_You_Keep_Showing_Up_Drowners.lrc"
+    }
+  ]
+}
